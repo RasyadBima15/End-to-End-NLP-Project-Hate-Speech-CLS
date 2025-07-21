@@ -1,5 +1,14 @@
 # End-to-End-NLP-Project-Hate-Speech-CLS
 
+## Project Workflows
+
+ - constants
+ - config_entity
+ - artifact_entity
+ - components
+ - pipeline
+ - app.py
+
 ## How to run?
 
 ```bash
