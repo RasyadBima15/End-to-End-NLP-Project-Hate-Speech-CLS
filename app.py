@@ -1,4 +1,4 @@
-from hate.pipeline.train_pipeline import TrainPipeline
+from hate.pipeline.train_pipeline_ import TrainPipeline
 from fastapi import FastAPI
 import uvicorn
 import sys
